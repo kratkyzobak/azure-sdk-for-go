@@ -3,6 +3,7 @@
 ## 0.13.1 (Unreleased)
 
 ### Features Added
+* Added `ClientAssertionCredential` to support signed assertions to Service account login
 
 ### Breaking Changes
 
